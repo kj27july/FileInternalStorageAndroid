@@ -1,0 +1,2 @@
+rootProject.name = "FileInternalStorage"
+include ':app'
